@@ -5,7 +5,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     [Header("Game Settings")]
-    public int startingScore = 420;   // <-- Activity 2 script conflict target
+    public int startingScore = 67;   
     public int lives = 4;           
     public float gameSpeed = 1.0f;
 
